@@ -1,0 +1,24 @@
+/*.btn{
+    background-color: aqua;
+}
+.btn.active{
+    background-color: brown;
+}
+.content{
+    display: none;
+}
+.content.active{
+    display: block;
+}*/
+.btn{
+    background-color: aqua;
+}
+.btn.active{
+    background-color: brown;
+}
+.content{
+    display: none;
+}
+.content.active{
+    display: block;
+}
